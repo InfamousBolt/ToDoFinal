@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "445564673251",
+    "firebase_url": "https://todoagain-b3a64-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "todoagain-b3a64",
+    "storage_bucket": "todoagain-b3a64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445564673251:android:aa497f89bc74fb83dc39d6",
+        "android_client_info": {
+          "package_name": "com.example.mytodolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445564673251-5ddci1emffk5e9ppibh6m1qe6cbds9ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytodolist",
+            "certificate_hash": "339629bed623336472d51cd780dc9b4449cfa934"
+          }
+        },
+        {
+          "client_id": "445564673251-jiv78rujs3gcj5656liktki0qcdv5std.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApK0FyoTw3SxnfNv7Rc68sa-KbGiXaoDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445564673251-jiv78rujs3gcj5656liktki0qcdv5std.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
